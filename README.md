@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarjit25" alt="samarjit25" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rake69420" target="blank"><img src="https://img.shields.io/twitter/follow/rake69420?logo=twitter&style=for-the-badge" alt="rake69420" /></a> </p>
-
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://samarjitroy.netlify.app/](https://samarjitroy.netlify.app/)
+
+- 💬 Ask me about **nothing**
 
 - 📫 How to reach me **samarjitroy025@gmail.com**
 
@@ -19,10 +19,10 @@
 <p align="left">
 <a href="https://twitter.com/rake69420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rake69420" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samarjit-roy-368071257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samarjit-roy-368071257" height="30" width="40" /></a>
-<a href="https://fb.com/samarjit roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samarjit roy" height="30" width="40" /></a>
+<a href="https://fb.com/samarjitroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samarjitroy" height="30" width="40" /></a>
 <a href="https://instagram.com/_samarjitroy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_samarjitroy_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samarjitroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarjitroy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/(<hesky>/profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<hesky>/profile)" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hesky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hesky" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
