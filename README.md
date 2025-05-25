@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://samarjitroy.netlify.app/](https://samarjitroy.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://samarjit25.github.io/portfolio](https://samarjit25.github.io/portfolio)
 
 - 💬 Ask me about **nothing**
 
