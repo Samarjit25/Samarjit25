@@ -32,7 +32,8 @@ Spearheaded the design and technical development of the annual conference websit
 
 ## 🛠 Tech Stack
 
-TypeScript · React · Node.js · Express · MongoDB · FastAPI · PostgreSQL · AWS · Docker · Tailwind CSS · Figma
+
+React.js · Node.js · Express.js · MongoDB · Firebase · TypeScript · SQL · Python · Tailwind CSS · Figma
 
 ---
 
