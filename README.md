@@ -51,10 +51,10 @@ _ReactJS + MongoDB + ExpressJS + NodeJS_
 _Python + Google Colab + Numpy + Pandas + Matplotlib + Seaborn_  
 → Visualizes user behaviour, trip patterns, and key business metrics from Uber trip data.
 
-→ [View all GitHub Repos »](#https://github.com/Samarjit25?tab=repositories)
+→ [View all GitHub Repos »](https://github.com/Samarjit25?tab=repositories)
 
 ---
 
 ## 🤝 Let's Connect
+[🌐 Portfolio](https://samarjit25.github.io/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/samarjit-roy-368071257/) · [📄 Resume](https://drive.google.com/file/d/1jCriPMCDCpomAkNrKFLkU4NrxL2T1ucn/view?usp=drive_link) · [🐙 GitHub](https://github.com/Samarjit25) · [📧 Email](mailto:samarjitroy025@gmail.com)
 
-[🌐 Portfolio](#https://samarjit25.github.io/portfolio/) · [💼 LinkedIn](#https://www.linkedin.com/in/samarjit-roy-368071257/) · [📄 Resume](#https://drive.google.com/file/d/1jCriPMCDCpomAkNrKFLkU4NrxL2T1ucn/view?usp=drive_link) · [🐙 GitHub](#https://github.com/Samarjit25) · [📧 Email](mailto:samarjitroy025@gmail.com)
