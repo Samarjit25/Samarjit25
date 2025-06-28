@@ -39,15 +39,15 @@ React.js · Node.js · Express.js · MongoDB · Firebase · TypeScript · SQL ·
 
 ## 🚀 Featured Projects
 
-**Kartly** – Next-Gen Online Storefront
+**Kartly** – Next-Gen Online Storefront | 
 _React + TailwindCSS + Firebase_  
 → Enables users to browse, add to cart, and purchase products with real-time authentication and database integration.
 
-**Luxeco** – Interactive Fashion Booking Portal
+**Luxeco** – Interactive Fashion Booking Portal | 
 _ReactJS + MongoDB + ExpressJS + NodeJS_  
 → Showcases a luxury fashion brand with product listings, admin panel, and secure checkout.
 
-**Uber Analytics** – Data Analytics Dashboard  
+**Uber Analytics** – Data Analytics Dashboard | 
 _Python + Google Colab + Numpy + Pandas + Matplotlib + Seaborn_  
 → Visualizes user behaviour, trip patterns, and key business metrics from Uber trip data.
 
