@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/HackerOSK/HackerOSK/refs/heads/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+
 # 👋 Hey, I'm Samarjit
 
 Final year B.Tech student at NIT Silchar, diving deep into Electronics and Communication Engineering by day and geeking out over dev, machine learning, and UI/UX by night. I like learning random cool stuff, building things that (hopefully) work, and turning ideas into something you can actually click on. Not a fan of comfort zones, so I keep exploring and experimenting while keeping things interesting.
