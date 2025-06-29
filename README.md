@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/HackerOSK/HackerOSK/refs/heads/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+<img src="[https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif](https://raw.githubusercontent.com/HackerOSK/HackerOSK/refs/heads/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="400" />
 
 # 👋 Hey, I'm Samarjit
 
