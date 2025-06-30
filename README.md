@@ -58,5 +58,5 @@ _Python + Google Colab + Numpy + Pandas + Matplotlib + Seaborn_
 ---
 
 ## 🤝 Let's Connect
-[🌐 Portfolio](https://samarjit25.github.io/portfolio/) · [💼 LinkedIn](https://www.linkedin.com/in/samarjit-roy-368071257/) · [📄 Resume](https://drive.google.com/file/d/1jCriPMCDCpomAkNrKFLkU4NrxL2T1ucn/view?usp=drive_link) · [🐙 GitHub](https://github.com/Samarjit25) · [📧 Email](mailto:samarjitroy025@gmail.com)
+[🌐 Portfolio](https://samarjit-dev.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/samarjit-roy-368071257/) · [📄 Resume](https://drive.google.com/file/d/1jCriPMCDCpomAkNrKFLkU4NrxL2T1ucn/view?usp=drive_link) · [🐙 GitHub](https://github.com/Samarjit25) · [📧 Email](mailto:samarjitroy025@gmail.com)
 
