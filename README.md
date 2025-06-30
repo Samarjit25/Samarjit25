@@ -35,7 +35,7 @@ Spearheaded the design and technical development of the annual conference websit
 ## 🛠 Tech Stack
 
 
-React.js · Node.js · Express.js · MongoDB · Firebase · TypeScript · SQL · Python · Tailwind CSS · Figma
+React.js · Next.js · Node.js · Express.js · MongoDB · Firebase · TypeScript · SQL · Python · Tailwind CSS · Figma
 
 ---
 
@@ -49,9 +49,9 @@ _React + TailwindCSS + Firebase_
 _ReactJS + MongoDB + ExpressJS + NodeJS_  
 → Showcases a luxury fashion brand with product listings, admin panel, and secure checkout.
 
-**Uber Analytics** – Data Analytics Dashboard | 
-_Python + Google Colab + Numpy + Pandas + Matplotlib + Seaborn_  
-→ Visualizes user behaviour, trip patterns, and key business metrics from Uber trip data.
+**SummarIQ** – SaaS Landing Page | 
+_Next + Typescript + TailwindCSS + FramerMotion_  
+→ Landing page for a tool that integrates with Zoom and Google Meet to generate meeting summaries and extract actionable tasks automatically.
 
 → [View all GitHub Repos »](https://github.com/Samarjit25?tab=repositories)
 
