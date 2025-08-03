@@ -7,15 +7,6 @@ I work mostly with JavaScript/TypeScript and love building with the MERN stack. 
 
 ---
 
-## 📌 Currently
-
-- 📚 Grinding DSA and revisiting core CS fundamentals  
-- 🧠 Exploring GenAI, developer tooling, and backend architecture  
-- 🌐 Staying updated with the latest in web and cloud technologies  
-- 🎨 Freelancing as a UI/UX designer — crafting clean, user-first interfaces for web & mobile
-
----
-
 ## 💼 Experience
 
 **🔹 Data Annotation Intern – Borde Inc.**  
