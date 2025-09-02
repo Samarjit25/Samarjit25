@@ -49,5 +49,5 @@ _Next + Typescript + TailwindCSS + FramerMotion_
 ---
 
 ## 🤝 Let's Connect
-[🌐 Portfolio](https://samarjit-dev.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/samarjit-roy-368071257/) · [📄 Resume](https://drive.google.com/file/d/1jCriPMCDCpomAkNrKFLkU4NrxL2T1ucn/view?usp=drive_link) · [🐙 GitHub](https://github.com/Samarjit25) · [📧 Email](mailto:samarjitroy025@gmail.com)
+[🌐 Portfolio](https://samarjit.tech) · [💼 LinkedIn](https://www.linkedin.com/in/samarjit-roy-368071257/) · [📄 Resume](https://drive.google.com/file/d/1jCriPMCDCpomAkNrKFLkU4NrxL2T1ucn/view?usp=drive_link) · [🐙 GitHub](https://github.com/Samarjit25) · [📧 Email](mailto:samarjitroy025@gmail.com)
 
